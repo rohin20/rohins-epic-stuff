@@ -1,2 +1,2 @@
 # rohins-epic-stuff
-Here you can find all of my projects.
+you can find some of my projects here
